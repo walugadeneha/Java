@@ -1,4 +1,4 @@
-//area of eqilateral triangle
+//area of equilateral triangle
 
 import java.util.*;
 class AEquilateralT
