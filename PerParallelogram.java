@@ -12,6 +12,6 @@ a=sc.nextDouble();
 System.out.println("Enter base:");
 b=sc.nextDouble();
 p=2*(a+b);
-System.out.println("Perimeter of square="+p);
+System.out.println("Perimeter of Parallelogram="+p);
 }
 }
