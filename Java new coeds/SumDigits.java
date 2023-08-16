@@ -16,6 +16,6 @@ d=num%10;
 s=s+d;
 num=num/10;
 }
-System.out.println("The reverse number is: "+s);
+System.out.println("The sum of digits in number is: "+s);
 }
 }
